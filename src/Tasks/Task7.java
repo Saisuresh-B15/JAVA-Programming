@@ -4,7 +4,11 @@ public class Task7 {
     public static void main(String[] args) {
         //increment and decrement operator
         int a = 15;
-        a++;
+        ++a;
+        System.out.println(a++);
+        System.out.println(a);
+        System.out.println(a++ +  a--);
+        System.out.println(++a +  --a);
         System.out.println(a);
     }
 }
