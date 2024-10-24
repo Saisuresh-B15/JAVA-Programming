@@ -14,5 +14,6 @@ public class Lab_059 {
 
             System.out.println("false");
         }
+        suresh.close();
     }
 }
