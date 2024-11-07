@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e5f80a5-4b0a-4421-9c5d-ef138f7b6bce" name="Changes" comment="ex_25102024">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab_106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab_107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab_108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab_109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28102024/Lab_110.java" afterDir="false" />
+    <list default="true" id="4e5f80a5-4b0a-4421-9c5d-ef138f7b6bce" name="Changes" comment="ex_28102024">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/Lab_117.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,6 +161,13 @@
     "Application.Lab_108.executor": "Run",
     "Application.Lab_109.executor": "Debug",
     "Application.Lab_110.executor": "Run",
+    "Application.Lab_111.executor": "Run",
+    "Application.Lab_112.executor": "Run",
+    "Application.Lab_113.executor": "Run",
+    "Application.Lab_114.executor": "Run",
+    "Application.Lab_115.executor": "Run",
+    "Application.Lab_116.executor": "Run",
+    "Application.Lab_117.executor": "Run",
     "Application.Lab_71.executor": "Run",
     "Application.Lab_80.executor": "Run",
     "Application.Lab_81.executor": "Run",
@@ -176,6 +186,8 @@
     "Application.Task20.executor": "Run",
     "Application.Task21.executor": "Run",
     "Application.Task22.executor": "Run",
+    "Application.Task23.executor": "Run",
+    "Application.Task24.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
@@ -196,32 +208,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_04102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24102024.Lab_098" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_24102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_099" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24102024.Lab_099" />
-      <module name="ATB9xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_24102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,6 +241,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024.Lab_111" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_29102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29102024.Lab_115" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_29102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab_83" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ex_23102024.Lab_083" />
       <module name="ATB9xJavaProgram" />
@@ -279,19 +291,19 @@
     <list>
       <item itemvalue="Application.Lab_003" />
       <item itemvalue="Application.Lab_83" />
+      <item itemvalue="Application.Lab_111" />
+      <item itemvalue="Application.Lab_115" />
       <item itemvalue="Application.Lab_109" />
-      <item itemvalue="Application.Lab_098" />
-      <item itemvalue="Application.Lab_099" />
       <item itemvalue="Application.Lab_100" />
       <item itemvalue="Application.Task21" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_115" />
+        <item itemvalue="Application.Lab_111" />
         <item itemvalue="Application.Lab_109" />
         <item itemvalue="Application.Task21" />
         <item itemvalue="Application.Lab_100" />
-        <item itemvalue="Application.Lab_099" />
-        <item itemvalue="Application.Lab_098" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730961055899</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ex_28102024">
+      <option name="closed" value="true" />
+      <created>1730966607420</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730966607420</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +506,8 @@
     <MESSAGE value="ex_23102024" />
     <MESSAGE value="ex_24102024" />
     <MESSAGE value="ex_25102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex_25102024" />
+    <MESSAGE value="ex_28102024" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_28102024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
