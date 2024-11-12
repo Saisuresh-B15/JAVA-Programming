@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e5f80a5-4b0a-4421-9c5d-ef138f7b6bce" name="Changes" comment="ex_29102024">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_30102024_arrays/Lab_118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_30102024_arrays/Lab_119_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_30102024_arrays/Lab_120.java" afterDir="false" />
+    <list default="true" id="4e5f80a5-4b0a-4421-9c5d-ef138f7b6bce" name="Changes" comment="ex_30102024">
+      <change afterPath="$PROJECT_DIR$/src/ex_05112024_nov/Lab_121string_buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05112024_nov/Lab_122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05112024_nov/Lab_123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05112024_nov/Lab_124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05112024_nov/Lab_125_CAR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,6 +167,10 @@
     "Application.Lab_118.executor": "Run",
     "Application.Lab_119_arrays.executor": "Run",
     "Application.Lab_120.executor": "Run",
+    "Application.Lab_121string_buffer.executor": "Run",
+    "Application.Lab_122.executor": "Run",
+    "Application.Lab_123.executor": "Run",
+    "Application.Lab_124.executor": "Run",
     "Application.Lab_71.executor": "Run",
     "Application.Lab_80.executor": "Run",
     "Application.Lab_81.executor": "Run",
@@ -483,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730975539518</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ex_30102024">
+      <option name="closed" value="true" />
+      <created>1731223435693</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1731223435693</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +528,8 @@
     <MESSAGE value="ex_25102024" />
     <MESSAGE value="ex_28102024" />
     <MESSAGE value="ex_29102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex_29102024" />
+    <MESSAGE value="ex_30102024" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_30102024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
